@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-comparison-filament",
+  "capabilityKey": "planned:ecommerce:product-comparison",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-product-comparison-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-comparison.md",
+  "presentationPlan": "projects/ecommerce/filament/product-comparison.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
